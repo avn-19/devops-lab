@@ -2,9 +2,11 @@ Hello!
 
 I am C#
 
-I am from Chennai.
+I am from Bangalore.
 
 I am pursuing Mtech from Manipal Institute of Technology.
 
 I love programming.
+
+I love travelling.
 
