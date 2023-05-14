@@ -2,9 +2,11 @@ Hello!
 
 I am Java developer.
 
-I am from Delhi.
+I am from Bangalore.
 
 I am pursuing Mtech from Manipal Institute of Technology.
 
 I love programming.
+
+I love travelling.
 
