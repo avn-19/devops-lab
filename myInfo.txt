@@ -1,8 +1,8 @@
 Hello!
 
-I am Java developer.
+I am C#
 
-I am from Delhi.
+I am from Chennai.
 
 I am pursuing Mtech from Manipal Institute of Technology.
 
